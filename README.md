@@ -1,4 +1,3 @@
 🌟 Samira Challouf — Personal Portfolio
 
-<img width="551" height="453" alt="nnnnn-removebg-preview" src="https://github.com/user-attachments/assets/f3fd1673-3e19-4d64-b99a-a4d2cc998855" />
-
+<img width="538" height="463" alt="nnnnnnnnn-removebg-preview" src="https://github.com/user-attachments/assets/8a48a88f-e0d6-44c3-b4d4-2b40038674a3" />
