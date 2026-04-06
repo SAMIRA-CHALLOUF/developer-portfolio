@@ -547,6 +547,25 @@ img {
   background-color: var(--first-color);
 }
 
+.projects__github {
+   display: inline-flex;
+   align-items: center;
+   column-gap: 0.4rem;
+   margin-top: 0.8rem;
+   font-size: var(--smaller-font-size);
+   color: var(--first-color);
+   font-weight: var(--font-semi-bold);
+   transition: color 0.3s;
+}
+
+.projects__github:hover {
+   color: var(--first-color-alt);
+}
+
+.projects__github i {
+   font-size: 1rem;
+}
+
 /*=============== WORK ===============*/
 .work__container {
   max-width: 700px;
